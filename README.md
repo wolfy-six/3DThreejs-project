@@ -1,5 +1,5 @@
 # 3DThreejs-project
-# Trying out Three.js
+ Trying out Three.js
 
 
 ## To install all the dependencies use the following ⚙
