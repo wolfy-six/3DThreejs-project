@@ -3,7 +3,6 @@ Trying out Three.js
 
 
 
-```
->npm i 
-
+``` 
+To install all the dependencies
 ```
