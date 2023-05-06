@@ -13,7 +13,7 @@ or
 ``` 
 yarn
 ```
-#Using GITHUB
+## Using GITHUB
 
 ```
 git clone git@github.com:wolfy-six/3DThreejs-project.git
