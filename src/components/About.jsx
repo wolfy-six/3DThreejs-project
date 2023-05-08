@@ -89,8 +89,7 @@ function About() {
             <Subtitle>What we do</Subtitle>
           </WhatWeDo>
           <Discription>
-            We enjoy shit and more BS from others to suck it
-            to you DH
+           Here use of Three.js and some other untilies that comes with three.js
           </Discription>
           <Button>See Our Work</Button>
         </Right>
