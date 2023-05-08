@@ -119,8 +119,7 @@ function Hero() {
             <Subtitle>What we do</Subtitle>
           </WhatWeDo>
           <Discription>
-            We enjoy shit and more BS from others to suck it or leave it its up
-            to you DH
+            We enjoy making fun and stunning website with 3D
           </Discription>
           <Button>Learn More</Button>
         </Left>
